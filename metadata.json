@@ -1,0 +1,6 @@
+{
+  "name": "SmartFlow",
+  "description": "Intelligent Hospital Operations and Resource Optimization Platform. Better Flow. Smarter Operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
